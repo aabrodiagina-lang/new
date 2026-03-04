@@ -1,4 +1,4 @@
  
-Название проекта: Первый Git-репозиторий 
-Бродягина Анжела Алексеевна 
-Группа 241 
+my_first_project
+Brodiagina Anzhela Alekseevna 
+group┬а 241 
